@@ -1,6 +1,9 @@
 <h1>  Forward Collision Warning
  Development using GenAI </h1>
 
+<pre> 
+ <img src="sdlc.jpg"></pre>
+
  <img src="car.jpg">
 
 
