@@ -29,7 +29,6 @@ Efficient Embedded Porting:
 Optimizing code for specific hardware platforms and embedded systems.
 Automating code porting to different hardware and software configurations.
 Implementation Considerations:
-<img src="car.jpg">
 
 Data Quality and Quantity: Ensuring high-quality training data.
 Model Validation and Calibration: Maintaining accuracy and reliability of AI models.
@@ -37,6 +36,8 @@ Human-in-the-Loop: Maintaining human oversight for ethical considerations and un
 Safety and Security: Prioritizing safety and security throughout the development process.
 Regulatory Compliance: Adhering to relevant industry standards and regulations.
 Conclusion:
+<img src="car.jpg">
+
 
 By leveraging Generative AI, we can revolutionize ADAS development, accelerating innovation, enhancing product quality, and ensuring the safe and reliable deployment of advanced automotive technologies.
 
