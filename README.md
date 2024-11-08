@@ -4,9 +4,6 @@
 <pre> 
  <img src="sdlc.jpg"></pre>
 
- <img src="car.jpg">
-
-
 Accelerating ADAS Development with Generative AI
 Problem: Developing and validating complex ADAS features like Forward Collision Warning (FCW) is a time-consuming process. Traditional methods involve lengthy development cycles, rigorous testing, and meticulous validation.
 
@@ -32,6 +29,7 @@ Efficient Embedded Porting:
 Optimizing code for specific hardware platforms and embedded systems.
 Automating code porting to different hardware and software configurations.
 Implementation Considerations:
+<img src="car.jpg">
 
 Data Quality and Quantity: Ensuring high-quality training data.
 Model Validation and Calibration: Maintaining accuracy and reliability of AI models.
