@@ -36,11 +36,10 @@ Human-in-the-Loop: Maintaining human oversight for ethical considerations and un
 Safety and Security: Prioritizing safety and security throughout the development process.
 Regulatory Compliance: Adhering to relevant industry standards and regulations.
 Conclusion:
-<img src="car.jpg">
-
 
 By leveraging Generative AI, we can revolutionize ADAS development, accelerating innovation, enhancing product quality, and ensuring the safe and reliable deployment of advanced automotive technologies.
 
+<img src="car.jpg">
 
 
 
